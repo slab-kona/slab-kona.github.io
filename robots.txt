@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://slab-kona.github.io/sitemap/sitemap.txt
